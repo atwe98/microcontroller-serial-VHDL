@@ -1,4 +1,5 @@
-# microcontroller-serial-VHDL
+# Microcontroller architecture with serial
+A VHDL design of a functioning microcontroller and a serializer module.
 
 A VHDL code to simulate a microcontroller with a serial port.
 The code was made for a VHDL lab at ENIB for Prof Kerhoas.
